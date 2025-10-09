@@ -1,0 +1,6 @@
+[Match]
+name=enp0s1
+
+[Network]
+DHCP=yes
+
